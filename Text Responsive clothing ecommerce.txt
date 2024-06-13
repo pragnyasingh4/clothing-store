@@ -91,7 +91,7 @@ https://www.instagram.com/
 https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
 
 .footer__copy
-&#169; Bedimcode. All rigths reserved
+&#169; TrendyCart. All rigths reserved
 
 .footer__privacy
 Terms & Conditions
